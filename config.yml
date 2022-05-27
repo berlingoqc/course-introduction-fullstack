@@ -1,0 +1,10 @@
+baseURL: https://berlingoqc.github.io/course-introduction-fullstack
+languageCode: en-us
+title: Course Introduction to Programmation for FullStack development
+
+ # Change the default theme to be use when building the site with Hugo
+theme: "hugo-theme-learn"
+
+# For search functionality
+outputs:
+  home: [ "HTML", "RSS", "JSON"]
