@@ -1,6 +1,6 @@
 
 
-# Introduction to programming to get into web development
+# Get into web development
 
 This is the first course that i'm bulding to teach for a dear friend
 of mine who want to learn programming after his master in philosophy.
@@ -16,7 +16,9 @@ all the gate for is future independent work afterward. Because the main goal
 should always be independant. I think of a teacher of computer science as 
 a starter on a motor , all i need is to start the beast and unleash it.
 
-So the topic for this classe must be:
+
+
+## Topics of the course
 
 * Introduction to programmation
     * How do we write code from source code to executable. ( PC architecture , assembly , compiler , linker and shared library )
@@ -43,7 +45,7 @@ So the topic for this classe must be:
     * Time to choice a development stack for a fullstack application
     * Get your end dirty it's time to code mofo
 
-The language use in this class:
+## The language use in this class
 
 * bash
 
@@ -65,4 +67,16 @@ depending of the choice of the student in framework for the final project
 
 depending of the choice of the student in framework for the final project
 
+
+## End goal
+
+By the end of the course the student will be able on it's own to create a fullstack application
+with the following elements
+
+* Backend
+* Frontend
+* CD/CI
+* Testing
+* Hosting
+* Versioning
 
