@@ -80,3 +80,25 @@ with the following elements
 * Hosting
 * Versioning
 
+## Warning
+
+This course in strongly opiniated. I will tell my experience what i dislike and what i like. Do not take all of this for
+granted. I feel strongly that i may be wrong and other developer must feel different about those topic.
+
+What i like:
+
+* POSIX
+* Modularity
+* Open source
+* Typed language
+* Compile language
+
+What i dislike:
+
+* Most interpreted language
+* Fragmented language
+* Dynamically type language
+* Big fat IDE
+* Propretary environment
+* Windows
+
