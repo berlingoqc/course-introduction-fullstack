@@ -227,17 +227,53 @@ Optional extra
 
 * Give a prediciton based on the day. (The result is always the same for a name and a date)
 
-For this appli
-
 ### Code snippet to get your started
 
-#### Ask for a answer from the 
+For this application i will gave you snippet and there location
+to help you get started.
 
+#### Ask for a answer by the user
 
+The functionnality is call Scanning from the `fmt` package
+the documentation is available [here](https://pkg.go.dev/fmt#hdr-Scanning)
+
+```go
+line_enter := fmt.Scanln()
+fmt.Prinln(line_enter)
+```
+
+#### Get the current date
+
+* https://pkg.go.dev/time@go1.18.3#Now
+
+```
+current_date_time := time.Now()
+year, month, day := d.Date()
+
+fmt.Printf("year = %v\n", year)
+fmt.Printf("month = %v\n", month)
+fmt.Printf("day = %v\n", day)
+```
+
+### My version of the homework
+
+I will write a exemple solution program in the exemple section.
+Don't look at it except if you are really stock. But you should
+never copy directly from it. Try to understand what i'm doing
+and implement it.
+
+I have also a video of my doing it to show you my development
+flow, what i ask myself and so on.
+
+### My steps
+
+* First create the program file
+* Secondly i lay down in the file the list of things i need to do.
+* I Start to do a basic implementation of the most important part.
 
 ## Things to read
 
 * https://gobyexample.com/
-* 
+* https://pkg.go.dev/std
 
 
