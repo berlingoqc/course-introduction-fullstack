@@ -1,8 +1,13 @@
 ---
 title: "Setuping development environment"
 date: 2022-05-27T17:08:19-03:00
-weight: 30
+weight: 10
 ---
+
+
+Topics of the page:
+
+* Configuration of our development environment.
 
 Now it's time to work, we are gonna setup you with a development environment.
 To write code we need many tools to help us, they are all part of our development
@@ -11,6 +16,7 @@ envrionment.
 It contains the following component normally:
 
 * A text editor
+* A terminal to interact with the system
 * A compiler or interpreter for your language
 * Tooling to help you
 
@@ -55,7 +61,22 @@ Macos does not come with a package manager but there is [brew](https://brew.sh/)
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Tadam you now have brew install so we can move to configure nvim and golang afterward.
+Tadam you now have brew install so we can move to configure vscode or nvim and golang afterward.
+
+## Terminal
+
+We must use a terminal to do must of our task. Macos came with a basic one. But i suggest instally `ITerm2`
+
+```bash
+$ brew install --cask iterm2
+```
+
+## Installing and configuration VSCODE
+
+* https://code.visualstudio.com/
+* https://marketplace.visualstudio.com/items?itemName=golang.Go
+* https://marketplace.visualstudio.com/items?itemName=vscodevim.vim
+* https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim
 
 ## Installing and configuration NVIM
 

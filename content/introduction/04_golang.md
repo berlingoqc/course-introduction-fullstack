@@ -1,7 +1,7 @@
 ---
 title: "Golang"
 date: 2022-05-27T17:08:19-03:00
-weight: 35
+weight: 45
 ---
 
 

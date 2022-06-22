@@ -1,7 +1,7 @@
 ---
 title: "Different language type"
 date: 2022-05-27T17:08:48-03:00
-weight: 20
+weight: 30
 ---
 
 

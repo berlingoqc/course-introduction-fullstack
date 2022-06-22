@@ -2,12 +2,13 @@
 
 # Get into web development
 
-This is the first course that i'm bulding to teach for a dear friend
+This is the first course that i'm bulding to teach for a friend
 of mine who want to learn programming after his master in philosophy.
 
 The starting point for this course is being a PC gamer with no prior
 experiences about software programming and networking. Being a PC gamer
-i know some things be name being confront with things from time to time.
+prior to going into programming i knew some of the basic of how computer
+work loving console and PC and hearing a lot about spec.
 
 The ending point would be to be knowledgeable of modern front-end development
 with understanding of the cloud and how to work in this modern virtual space
@@ -17,8 +18,18 @@ should always be independant. I think of a teacher of computer science as
 a starter on a motor , all i need is to start the beast and unleash it.
 
 
+The course will not re-explain everything , i will leave a lot of open
+reading that the student can read or not in most case, depending on how
+deep he wanted to learn each topic. Not everything is required in the end
+but more information and knowledge is never bad.
+
+
+## Introducing myself and my experiences.
+
 
 ## Topics of the course
+
+Here is a first draft of the subject of this course.
 
 * Introduction to programmation
     * How do we write code from source code to executable. ( PC architecture , assembly , compiler , linker and shared library )
@@ -80,6 +91,7 @@ with the following elements
 * Hosting
 * Versioning
 
+* Capable of doing the same kind of job as myself.
 ## Warning
 
 This course in strongly opiniated. I will tell my experience what i dislike and what i like. Do not take all of this for

@@ -12,12 +12,21 @@ The first part of the class will be about the base of programmation.
 
 ## We will answer the following question:
 
+* How computer and operating system are build basically
 * What is code
 * How do we write a program
 * The different type of programming language
 * The different paradigm of programming language
 * What are the tool that we can use to write those program
-
+  * We will learn to love thy terminal
+  * Learn how to use command line software
+  * Basic understanding of the POSIX envrionment
+  * How to install , build and run software stack
+* How to write basic program with the building block.
+  * Condition
+  * Loop
+  * Function
+  * Basic data structure
 
 For you information , this course will not rewrite all there is to know about programming
 i will often provide website to already existing website with the information that the student
@@ -36,4 +45,3 @@ following options:
 Linux is not so user friendly and i think the best OS to start programming is MacOS, it has all the
 advantage that you have with linux being a unix system and it's fairly easy to use with very good
 support all across the board.
-

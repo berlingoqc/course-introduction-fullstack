@@ -1,13 +1,52 @@
 ---
 title: "What is code"
 date: 2022-05-27T17:07:50-03:00
-weight: 10
+weight: 20
 ---
 
-> Programming is the implementation of logic to facilitate specified computing operations and functionality. It occurs in one or more languages, which differ by application, domain and programming model
+
+Topics of the page:
+
+* Computer Architecture (basic)
+* OS Architecture (basic)
+* Source code and Machine Code
+* Compilation
+
+## The computer
+
+Explanation of the computer architecture and the different layer that build the modern operating system that we use.
+
+### Computer Architecture
+
+Modern computer have the following component that our program work with
+
+* CPU
+* RAM
+* GPU
+* Storage
+
+### OS Architecture
 
 
-## Analogy with cooking receipe
+!(abstraction-layer)[https://developer.ibm.com/developer/default/articles/l-linux-kernel/images/figure2.jpg]
+
+#### Hardware Abstraction Layer
+
+On top of those component we have the HAL (Hardware Abstraction Layer)
+
+#### Kernel
+
+And an layer is build on top of it called a kernel that implement all the logic
+of interaction with this ever changing hardware.
+
+#### User space
+
+The user space in where our program are run. This space have less right and use the kernel
+and system service that expose the core functionnality of the os.
+
+## Back to the code
+
+### Analogy with cooking receipe
 
 Programming is like the good old probleme solving that i did in elementary school.
 
@@ -30,7 +69,7 @@ But when it come to computer they don't understand at all our language ou even t
 we wrote the intruction in. We need to transform our instruction to instruction that the computer
 will understand.
 
-## From source code to machine code
+### From source code to machine code
 
 What the understand is [Machine Code](https://en.wikipedia.org/wiki/Machine_code) and [Instruction Set](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 
@@ -41,7 +80,7 @@ To go from our programming language to this machine code we must use a compiler 
 [this page](https://www.webopedia.com/definitions/compilation/) give a fairly straight forward explanation.
 
 
-## Exemple of this process
+### Exemple of this process
 
 Here is an exemple of this process with the infamous hello world writting in go the language that we will use in the course.
 
@@ -94,7 +133,11 @@ This is our first coding exemple. We have manage to turn source code to executab
 
 In the next chapiter we will see how this is not always the case for the user but it's always the case for the machine.
 
+## Cross-plateform code
+
 ## Lecture from this chapiter
+
+* https://en.wikipedia.org/wiki/Central_processing_unit
 
 * https://www.webopedia.com/definitions/compilation/ (required)
 * https://en.wikipedia.org/wiki/Machine_code (optional)

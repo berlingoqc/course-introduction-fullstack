@@ -1,7 +1,7 @@
 ---
 title: "Main programming concept"
 date: 2022-05-27T17:09:46-03:00
-weight: 40
+weight: 50
 ---
 
 In the chapiter get your head ready we gonna start really learning the basic of programmation.
