@@ -99,7 +99,7 @@ int main()
 		name_parts.push_back(val);
 	}
 
-	if  (name_parts.size() < 2) {
+	if (name_parts.size() < 2) {
 		std::cerr << "Name invalid cannot get the first and last name" << std::endl;
 		return 1;
 	}
